@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sirichandana
-- 👀 I’m interested in web development 
+- 👀 I’m interested in web development and full stack development 
 - 🌱 I’m currently learning Aiml
-- 💞️ I’m looking to collaborate on web and full stack technologies 
+- 💞️ I’m looking to collaborate with web and full stack technologies 
 - 📫 How to reach me: sirichandana852@gmail.com
 - 😄 Pronouns: she/her
 
