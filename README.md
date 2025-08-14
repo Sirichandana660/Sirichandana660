@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sirichandana
+- 👋 Hi, I’m Sirichandana.I can introduce myself as a very curious individual with keen interest in learing new technologies in today's emerging world.
 - 👀 I’m interested in web development and full stack development 
 - 🌱 I’m currently learning Aiml
 - 💞️ I’m looking to collaborate with web and full stack technologies 
